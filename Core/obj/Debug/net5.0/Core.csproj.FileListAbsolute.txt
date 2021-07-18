@@ -1,0 +1,12 @@
+/Users/aneesurrehman/Courses/SKINET/Core/bin/Debug/net5.0/Core.deps.json
+/Users/aneesurrehman/Courses/SKINET/Core/bin/Debug/net5.0/Core.dll
+/Users/aneesurrehman/Courses/SKINET/Core/bin/Debug/net5.0/ref/Core.dll
+/Users/aneesurrehman/Courses/SKINET/Core/bin/Debug/net5.0/Core.pdb
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.AssemblyInfoInputs.cache
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.AssemblyInfo.cs
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.csproj.CoreCompileInputs.cache
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.dll
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/ref/Core.dll
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.pdb
+/Users/aneesurrehman/Courses/SKINET/Core/obj/Debug/net5.0/Core.csproj.AssemblyReference.cache

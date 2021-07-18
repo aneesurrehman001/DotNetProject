@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0F1B806B-93BC-4A47-AA4B-56950E3B5D4D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/Data/StoreContext.cs">
+    <Files>
+      <File FileName="Infrastructure/Data/StoreContext.cs" Line="26" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SKINET" expanded="True">
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="StoreContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
